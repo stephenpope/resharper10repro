@@ -1,0 +1,36 @@
+{
+  "locked": false,
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.5.1": {
+      "Thing.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5"
+      }
+    },
+    ".NETFramework,Version=v4.5.1/win7-x86": {
+      "Thing.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5"
+      }
+    },
+    ".NETFramework,Version=v4.5.1/win7-x64": {
+      "Thing.Abstractions/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.5"
+      }
+    }
+  },
+  "libraries": {
+    "Thing.Abstractions/1.0.0": {
+      "type": "project",
+      "path": "../Thing.Abstractions/project.json"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "": [
+      "Thing.Abstractions "
+    ],
+    ".NETFramework,Version=v4.5.1": []
+  }
+}

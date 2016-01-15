@@ -1,0 +1,14 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "Thing Class Library",
+  "authors": [ "stp" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+  "dependencies": { "Thing.Abstractions": "" },
+
+  "frameworks": {
+    "net451": { }
+  }
+}
